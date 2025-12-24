@@ -2,7 +2,7 @@
 
 I'm a Data Science student at **Chongqing University** (2022–2026 expected) 
 
-**Research Interests:** AI for Science, Agent for Science
+**Research Interests:** AI for Science, Computational Biology.
 
 
 <!---
