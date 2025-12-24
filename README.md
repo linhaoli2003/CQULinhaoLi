@@ -1,4 +1,4 @@
-### Hi, I'm Klay 👋
+### Hi, I'm Linhao (Klay) 👋
 
 I'm a Data Science student at **Chongqing University** (2022–2026 expected) 
 
